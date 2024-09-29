@@ -1,0 +1,89 @@
+{
+	"compiler": {
+		"version": "0.8.27+commit.40a35a09"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "int256",
+						"name": "_nomorSepatu",
+						"type": "int256"
+					},
+					{
+						"internalType": "int256",
+						"name": "_tinggiBadan",
+						"type": "int256"
+					}
+				],
+				"name": "dataDiri",
+				"outputs": [
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					},
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "dataPasien",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "editData",
+				"outputs": [],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/artifacts/Testing.sol": "Testing2"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/artifacts/Testing.sol": {
+			"keccak256": "0x76e72aa3bb01689bb5c85586dab25efb20fb38b9352ee4a68ca0c48e06753800",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://276224e54a490e26afcef2d98623366991fa125e34578cbb41f99c3c72bff104",
+				"dweb:/ipfs/QmedU9bry9rhTE1ZeuwYcGdHzSMU5htdB2cZpb7mLfhLoB"
+			]
+		}
+	},
+	"version": 1
+}
