@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/l4pTfx2qLsTgBq0S4/giphy.gif" alt="Ethereum GIF" width="450">
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/USVfCjE28R9h9W40gM/giphy.gif" alt="Coding GIF" width="450">
 </div>
 
 🌟 Selamat Datang di Dunia Web3 dan Smart Contract!
@@ -32,11 +32,9 @@ cd Belajar-Smart-Contract
 
 
 
-
 Instal Dependensi:
 
 npm install
-
 
 
 
