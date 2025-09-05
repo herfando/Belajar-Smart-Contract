@@ -32,9 +32,11 @@ cd Belajar-Smart-Contract
 
 
 
+
 Instal Dependensi:
 
 npm install
+
 
 
 
