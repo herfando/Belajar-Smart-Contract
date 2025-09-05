@@ -31,9 +31,11 @@ git clone [https://github.com/herfando/Belajar-Smart-Contract.git](https://githu
 cd Belajar-Smart-Contract
 
 
+
 Instal Dependensi:
 
 npm install
+
 
 
 Mulai Belajar!
