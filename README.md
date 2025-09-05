@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRkM3R0NHA3a3V4b2VwMGUxdW1xYXBvb29jMGwzb2p1bDF5dWZ4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kFgz0D4sRkH8Y3vSht/giphy.gif" alt="Ethereum GIF" width="450">
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/l4pTfx2qLsTgBq0S4/giphy.gif" alt="Ethereum GIF" width="450">
 </div>
 
 🌟 Selamat Datang di Dunia Web3 dan Smart Contract!
@@ -30,9 +30,11 @@ Clone Repositori:
 git clone [https://github.com/herfando/Belajar-Smart-Contract.git](https://github.com/herfando/Belajar-Smart-Contract.git)
 cd Belajar-Smart-Contract
 
+
 Instal Dependensi:
 
 npm install
+
 
 Mulai Belajar!
 Setiap folder di repositori ini berisi contoh kode dan penjelasan lengkap. Mulailah dari folder fundamentals dan jelajahi alur pembelajaran yang sudah saya siapkan.
